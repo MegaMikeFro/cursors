@@ -1,1 +1,1 @@
-# cursors
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=BEC8FF&width=435&lines=Cursors+repository)](https://git.io/typing-svg)
